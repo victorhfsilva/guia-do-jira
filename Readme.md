@@ -12,8 +12,7 @@ Bem-vindo ao Guia do Jira! Este repositório é o ponto de partida perfeito para
 - [Tratamento de Exceções](./Groovy/Tratamento%20de%20Exceções.md)
 - [Coleções](./Groovy/Coleções.md)
 - [Classes e Objetos](./Groovy/Classes%20e%20Objetos.md)
-
-#### Sintaxe Básica
+- [Metaprogramação](./Groovy/Metaprogramação.md)
 
 
 ## 🤝 Contribua!
