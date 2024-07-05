@@ -14,6 +14,14 @@ Bem-vindo ao Guia do Jira! Este repositório é o ponto de partida perfeito para
 - [Classes e Objetos](./Groovy/Classes%20e%20Objetos.md)
 - [Metaprogramação](./Groovy/Metaprogramação.md)
 
+### Script Runner
+
+- [Issues](./Scriptrunner/Issues.md)
+- [ComponentAccessor](./Scriptrunner/ComponentAccessor.md)
+- [Fields](./Scriptrunner/Fields.md)
+- [Listeners](./Scriptrunner/Listeners.md)
+- [Workflows](./Scriptrunner/Workflows.md)
+- [Jobs](./Scriptrunner/Jobs.md)
 
 ## 🤝 Contribua!
 
