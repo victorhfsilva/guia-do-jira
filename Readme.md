@@ -22,6 +22,7 @@ Bem-vindo ao Guia do Jira! Este repositório é o ponto de partida perfeito para
 - [Listeners](./Scriptrunner/Listeners.md)
 - [Workflows](./Scriptrunner/Workflows.md)
 - [Jobs](./Scriptrunner/Jobs.md)
+- [Behaviours](./Scriptrunner/Behaviours.md)
 
 ## 🤝 Contribua!
 
